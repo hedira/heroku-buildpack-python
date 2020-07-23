@@ -2,6 +2,7 @@
 
 # Master
 
+- Update pip, setuptools and wheel and refactor the way they are installed (#1007)
 
 # 173 (2020-07-21)
 
